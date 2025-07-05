@@ -1,40 +1,36 @@
-# DSA
-# Two Sum Problem - Data Structures & Algorithms
+# 🧠 DSA Practice in C – By Dhruba Saha
 
-## 💡 Problem Statement
-Given an array of integers `nums` and an integer `target`, return the indices of the two numbers such that they add up to the target.
-
-You may assume that each input has exactly one solution, and you may not use the same element twice.
-
-You can return the answer in any order.
+Welcome to my Data Structures and Algorithms (DSA) practice repository!  
+This repo contains my journey of solving DSA problems using the C programming language, as I build strong fundamentals and prepare for coding interviews and competitive programming.
 
 ---
 
-## 🧩 Example
-**Input:**  
-nums = [2,7,11,15], target = 9
+## ✨ What I'm Practicing
 
-**Output:**  
-[0,1]
-
-**Explanation:**  
-nums[0] + nums[1] == 9
+- ✅ Arrays: Traversing, Sum, Max/Min, Reverse
+- ✅ Strings: Vowels, Reverse, Palindrome
+- ✅ Loops & Patterns
+- 🔜 Coming soon: Linked Lists, Stacks, Queues, Recursion, Sorting Algorithms
 
 ---
 
-## 🛠️ Approach
-- Used a HashMap to store each number and its index while iterating.
-- For each element, checked if `target - nums[i]` exists in the map.
-- If found, returned the indices.
+## 💡 Why This Repo?
 
-Time Complexity: **O(n)**  
-Space Complexity: **O(n)**
-
----
-
-## 🧑‍💻 Language
-Implemented in **C**.
+This repository helps me:
+- Stay consistent with daily DSA
+- Track my learning progress
+- Build a strong foundation in C
+- Get ready for coding interviews and hackathons
 
 ---
 
+## 🚀 Let's Connect!
+
+I’m always open to learning and collaborating!  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruba-saha-8a8108315/)  
+or check out my latest projects on [GitHub](https://github.com/dhrubasaha001)
+
 ---
+
+> “It’s not about how you start, but how hard you come back.” – Dhruba Saha 🧠🔥
+
