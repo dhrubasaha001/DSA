@@ -1,16 +1,8 @@
-# 🧠 DSA Practice in C – By Dhruba Saha
+# 🧠 DSA Practice in Python – By Dhruba Saha
 
 Welcome to my Data Structures and Algorithms (DSA) practice repository!  
-This repo contains my journey of solving DSA problems using the C programming language, as I build strong fundamentals and prepare for coding interviews and competitive programming.
+This repo contains my journey of solving DSA problems using the Python programming language, as I build strong fundamentals and prepare for coding interviews and competitive programming.
 
----
-
-## ✨ What I'm Practicing
-
-- ✅ Arrays: Traversing, Sum, Max/Min, Reverse
-- ✅ Strings: Vowels, Reverse, Palindrome
-- ✅ Loops & Patterns
-- 🔜 Coming soon: Linked Lists, Stacks, Queues, Recursion, Sorting Algorithms
 
 ---
 
