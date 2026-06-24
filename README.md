@@ -11,7 +11,7 @@ This repo contains my journey of solving DSA problems using the Python programmi
 This repository helps me:
 - Stay consistent with daily DSA
 - Track my learning progress
-- Build a strong foundation in C
+- Build a strong foundation in Python
 - Get ready for coding interviews and hackathons
 
 ---
